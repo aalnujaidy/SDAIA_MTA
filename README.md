@@ -28,7 +28,6 @@ As a result of climate change, countries started to shift their visions to reusa
       </ul>
     </li>
     </li>
-    <li><a href="#Documents">Documents</a></li>
   </ol>
 </details>
 
