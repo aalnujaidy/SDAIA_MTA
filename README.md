@@ -34,8 +34,8 @@ As a result of climate change, countries started to shift their visions to reusa
 
 # Documents
 - [Proposal](./doc/Proposal.pdf)
-- [Presentation](./doc/presentation.pptx)
-- [Report](./doc/Report.docx)
+- [Presentation](./doc/presentation.pdf)
+- [Report](./doc/Report.pdf)
 
 
 
